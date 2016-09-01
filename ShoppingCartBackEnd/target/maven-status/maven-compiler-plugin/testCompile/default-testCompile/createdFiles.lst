@@ -1,0 +1,11 @@
+com\niit\shoppingcart\test\TestProductDAO.class
+com\niit\shoppingcart\test\SupplierTest.class
+com\niit\shoppingcart\test\TestCategoryDAO.class
+com\niit\shoppingcart\test\TestUserLoginDAO.class
+com\niit\shoppingcart\test\CartTest.class
+com\niit\shoppingcart\test\TestSupplierDAO.class
+com\niit\shoppingcart\test\UserLoginTest.class
+com\niit\shoppingcart\test\ProductTest.class
+com\niit\Shoppingcartbackend\AppTest.class
+com\niit\shoppingcart\test\CategoryTest.class
+com\niit\shoppingcart\test\UserDetailsTest.class
